@@ -7,7 +7,7 @@ Otherwise, if you want to try and edit the code, I suggest you to use Codepen, w
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-You can also create a link dierctly to directly host the static webpage with the animation  on GitHub, mine is https://livia020799.github.io/ 
+You can also create a link dierctly to directly host the static webpage with the animation  on GitHub, mine is [https://livia020799.github.io/ ](https://livia020799.github.io/Valentine-project/)
 
 Tutorial on how to create the link on GitHub:
 1) Create an account on GitHub
