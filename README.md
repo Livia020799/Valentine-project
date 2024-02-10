@@ -15,6 +15,6 @@ Tutorial on how to create the link on GitHub:
 3) Upload the css, js and html files
 4) Go to Settings > Pages
 5) Select the main branch and click "Save"
-6) Refresh teh page or come back after a couple of minutes and on top of the "Pages" page you should find the link to your static Webpage
+6) Refresh the page or come back after a couple of minutes and on top of the "Pages" page you should find the link to your static Webpage
 
 Please feel free to dm me for anything :)
