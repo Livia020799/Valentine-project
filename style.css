@@ -1,0 +1,75 @@
+/* Basic styles for the game */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh -  16px);
+  margin-top: -16px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.my-4 {
+  margin-top:  1rem;
+  margin-bottom:  1rem;
+}
+
+.text-4xl {
+  font-size:  2rem;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.py-2 {
+  padding-top:  0.5rem;
+  padding-bottom:  0.5rem;
+}
+
+.px-4 {
+  padding-left:  1rem;
+  padding-right:  1rem;
+}
+
+.rounded {
+  border-radius:  0.25rem;
+}
+
+.bg-green-500 {
+  background-color: #8FBC8B;
+  margin-right:  10px;
+  border:  2px solid #008000;
+}
+
+.hover\:bg-green-700:hover {
+  background-color: #C2DFC2;
+}
+
+.text-white {
+  color: black;
+}
+
+.bg-red-500 {
+  background-color: #FF6961;
+  margin-left:  10px;
+  border:  2px solid #8B0000;
+}
+
+.hover\:bg-red-700:hover {
+  background-color: #ff7f7f;
+}
+
+.h-[200px] {
+  height:  200px;
+}
