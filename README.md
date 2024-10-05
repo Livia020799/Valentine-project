@@ -1,5 +1,5 @@
 # Valentine project
-This is just something I created from @tnarla https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 repository, by changing and upgrading a bit the code. 
+This is just something I created from [tnarla](https://gist.github.com/tnarla) repository, by changing and upgrading a bit the code. 
 
 If you just want to see what happens you need to download all the files in the same folder (on your computer) and then execute the index.html one. 
 
